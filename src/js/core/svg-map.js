@@ -1,5 +1,3 @@
-const svgPanZoom = require('svg-pan-zoom');
-
 export default class svgMap {
   constructor(options = {}) {
     const defaultOptions = {
